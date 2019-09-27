@@ -1,7 +1,8 @@
 {
-  "name": "@praktwerj/table-row",
+  "name": "@praktwerk/table-row",
   "version": "0.1.0",
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "gitHead": "70a85e65ba15c2495d2b8c69a861b126905f08ff"
 }
