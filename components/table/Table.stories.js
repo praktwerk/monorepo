@@ -7,7 +7,7 @@ var items = [
   [ 'Carl Henson', 'carl.henson@email.com' ],
   [ 'Jensen Combs', 'jensen.combs@email.com' ],
   [ 'Amiah Burton', 'amiah.burton@email.com' ],
-  [ 'Yaretzi Mayo', 'yaretzi.mayo@email.com' ],
+  [ 'Yaretzi Mayonez', 'yaretzi.mayo@email.com' ],
   [ 'Kamren Huffman', 'kamren.huffman@email.com' ]
 ]
 
